@@ -14,6 +14,9 @@ Electronics Engineering student at MUET (Class of 2027) | Embedded Systems & Har
 ![](https://streak-stats.demolab.com/?user=ShinyaK0gami&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShinyaK0gami&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+<img src="https://github.com/ShinyaK0gami/ShinyaK0gami/blob/main/Ghidorah.png.gif" alt="Alt text description" width="300" align="right" />
+
 ---
 [![](https://komarev.com/ghpvc/?username=ShinyaK0gami&icon=2&color=0)](https://visitcount.itsvg.in)
 
