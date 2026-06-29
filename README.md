@@ -3,6 +3,7 @@
 # 💫 About Me:
 Electronics Engineering student at MUET (Class of 2027) | Embedded Systems & Hardware Architecture.<br><br>Focused on the intersection of hardware design, robotics, and algorithmic systems. Currently building autonomous drone-based photogrammetric platforms and high-frequency trading algorithms.<br><br>Hardware: PCB Design (KiCAD, EasyEDA), VLSI, Embedded Systems.<br><br>Languages: C++, Kotlin, Python, MQL5.<br><br>Focus: Autonomous Systems, Real-time Processing, Digital Signal Processing.
 
+<img src="https://github.com/ShinyaK0gami/ShinyaK0gami/blob/main/Ghidorah.png.gif" alt="Alt text description" width="100" align="right" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-anas-baig-116528313/) 
@@ -15,7 +16,7 @@ Electronics Engineering student at MUET (Class of 2027) | Embedded Systems & Har
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShinyaK0gami&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-<img src="https://github.com/ShinyaK0gami/ShinyaK0gami/blob/main/Ghidorah.png.gif" alt="Alt text description" width="300" align="right" />
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=ShinyaK0gami&icon=2&color=0)](https://visitcount.itsvg.in)
